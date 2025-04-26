@@ -1,4 +1,4 @@
-git init#  AI Task Manager - Zocket 
+git init#  AI Task Manager 
 ## Screen Shots
 ![image](https://github.com/user-attachments/assets/bcfadd63-7cd3-487b-9345-e50639cae8f5)
 ![image](https://github.com/user-attachments/assets/f9d6440f-faf9-453d-b94e-9502537acff0)
